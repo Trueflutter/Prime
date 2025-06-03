@@ -1,0 +1,33 @@
+{
+  "name": "Ping",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "d9d33d60-b660-4f5e-8f2d-07b2cf6706ee",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "cd194ff3-c65d-4e2a-b50c-2220f8b1ac3e",
+      "name": "Webhook",
+      "webhookId": "d9d33d60-b660-4f5e-8f2d-07b2cf6706ee"
+    }
+  ],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "6c7791d3-24ba-47b5-b7cb-31e1f80d633a",
+  "meta": {
+    "instanceId": "9e88e3c3e0b7c3ae87c5b2c36298ea2f1de913180ba26314b181553c6db7929a"
+  },
+  "id": "GEZceVd5EODGndDR",
+  "tags": []
+}
